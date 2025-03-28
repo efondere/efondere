@@ -3,12 +3,12 @@
 # About me
 **Hello there, I'm Eliot!**
 
-I have a strong interest for systems programming and a deep hate for python's OOP syntax. More seriously, I've been doing robotics for over 10 years 🤖 and still very much like it. I have experience with C++, but I'm currently learning Rust and slowly wondering if it could be great for robot programming! Otherwise, I enjoy creating (and playing) video games 🎮.
+I'm the current electical and embedded team lead at [Exocet](https://github.com/Exocet-Polytechnique), a university team building a hydrogen-powered boat. I work on designing electrical circuits for our power system and PCBs using KiCad. I now have over 11 years of experience in robotics and have been programming in C++ for more than 7 years as well. I have also been programming in Rust (my new favorite language!) for about 2 years.
 
-I hope you can find something that interests you here, or perhaps over at my (currently empty) [blog 🔍](https://www.eliotfondere.com/blog).
+Otherwise, I've learned about computer graphics using Vulkan and OpenGL. I recently re-discovered an old project of mine ([WorldViewer](https://github.com/efondere/WorldViewer) - boring name, I know...) with which I rendered my current banner. I'm interested in all the beautiful things we can do with math!
 
 # Projects
 Here are some of the projects I've worked on:
-- [ArduinoExtra](https://github.com/Vanier-Robotics/ArduinoExtra): a liteweight implementation of the C++ standard library's `vector` and `function` classes
-- [DreamWalker](https://github.com/efondere/Dream-Walker): my biggest game so far, which was born from a game jam
-- [squash](https://github.com/efondere/squash): a very inefficient image compression algorithm based on JPEG and Haar wavelets
+- [squash](https://github.com/efondere/squash): a (very inefficient) image compression algorithm based on JPEG and Haar wavelets
+- [exo-pcbs](https://github.com/Exocet-Polytechnique/exo-pcbs): a collection of PCBs that make a hydrogen boat work!
+- [exo-electical](https://github.com/Exocet-Polytechnique/exo-electrical): the electrical ~~mess~~ circuits of Exocet's boat
